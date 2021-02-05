@@ -1,3 +1,7 @@
+"""
+https://www.acmicpc.net/problem/1439
+"""
+
 from bisect import bisect_left, bisect_right
 
 string = input()
