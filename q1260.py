@@ -1,3 +1,7 @@
+"""
+https://www.acmicpc.net/problem/1260
+"""
+
 from collections import deque
 
 def bfs(graph, start, visited):
