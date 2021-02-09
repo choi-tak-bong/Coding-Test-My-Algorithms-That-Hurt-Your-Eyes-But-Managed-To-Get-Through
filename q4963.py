@@ -1,5 +1,5 @@
 """
-https://www.acmicpc.net/problem/4693
+https://www.acmicpc.net/problem/4963
 """
 
 boards = []
