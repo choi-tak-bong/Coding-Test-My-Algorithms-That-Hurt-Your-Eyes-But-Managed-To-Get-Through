@@ -1,5 +1,5 @@
 """
-
+https://www.acmicpc.net/problem/q1092
 """
 
 from sys import stdin
