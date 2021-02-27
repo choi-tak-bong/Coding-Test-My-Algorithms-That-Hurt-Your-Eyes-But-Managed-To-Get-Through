@@ -1,3 +1,7 @@
+"""
+https://www.acmicpc.net/problem/2447
+"""
+
 from sys import stdin
 
 input = stdin.readline
